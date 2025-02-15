@@ -1,0 +1,4 @@
+#fichier de compilation
+*.o
+*.exe
+*.out

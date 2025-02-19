@@ -1,4 +1,5 @@
 #fichier de compilation
 *.o
 *.exe
+minishell
 *.out
